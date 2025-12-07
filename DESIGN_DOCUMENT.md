@@ -1,6 +1,6 @@
 # GrocerEase Design Document
 **Course**: Computer Networks (CN) 2025
-**Developer**: Md Kaif
+**Developer**: Md Kaif (2022289), Athiyo Chakma (2022118)
 
 ## 1. Project Overview
 GrocerEase is a mobile-first grocery delivery application designed to simulate a real-world e-commerce environment. It features a dual-role system (Customer/Shop Owner), real-time inventory management, and geolocation services.
